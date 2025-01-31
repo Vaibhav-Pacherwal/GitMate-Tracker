@@ -1,4 +1,4 @@
-# CLI Fetcher
+# GitMate-Tracker
 
 A simple Command Line Interface (CLI) tool built with Node.js to fetch data from APIs and retrieve GitHub user details.
 
@@ -25,4 +25,4 @@ A simple Command Line Interface (CLI) tool built with Node.js to fetch data from
     ```
 
 ## Demo
-./asset/GM-T.png
+./photo/GM-T.png
