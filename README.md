@@ -24,5 +24,4 @@ A simple Command Line Interface (CLI) tool built with Node.js to fetch data from
     npm install
     ```
 
-## Demo
-./photo/GM-T.png
+[![Demo](./photo/GM-T.png)](https://github.com/Vaibhav-Pacherwal/GitMate-Tracker/blob/main/photo/GM-T.png)
